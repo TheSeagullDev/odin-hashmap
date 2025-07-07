@@ -2,5 +2,27 @@
   "dependencies": {
     "@theseagulldev/linked-list": "^1.0.0"
   },
-  "type": "module"
+  "type": "module",
+  "name": "@theseagulldev/hashmap",
+  "version": "1.0.0",
+  "description": "A simple hash map created for the odin project to better understand how they work under the hood",
+  "main": "HashMap.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheSeagullDev/odin-hashmap.git"
+  },
+  "keywords": [
+    "hashmap",
+    "data-structures"
+  ],
+  "author": "TheSeagullDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheSeagullDev/odin-hashmap/issues"
+  },
+  "homepage": "https://github.com/TheSeagullDev/odin-hashmap#readme"
 }
